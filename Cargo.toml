@@ -1,9 +1,10 @@
 [workspace.package]
+name = "Privacyd"
 license = "MIT-0"
-authors = ["Parity Technologies <admin@parity.io>"]
-homepage = "https://paritytech.github.io/polkadot-sdk/"
-repository = "https://github.com/paritytech/polkadot-sdk-solochain-template.git"
-edition = "2021"
+authors = ["Hu99icane <studio@hu99icane.com>"]
+homepage = "https://github.com/Hu99icaneStudios/privacyd-node.git"
+repository = "https://github.com/Hu99icaneStudios/privacyd-node.git"
+edition = "2024"
 
 [workspace]
 members = [
